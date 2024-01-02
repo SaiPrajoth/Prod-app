@@ -1,0 +1,37 @@
+body{
+  background-color: #1A244D;
+  box-sizing: border-box;
+}
+
+main{
+  padding: 25px;
+  margin: auto;
+  max-width: 900px;
+  background-color: #1A244D;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+}
+.logo-image{
+  width: 200px;
+  height: 50px;
+}
+.registration-form form{
+  /* display: inline-block; */
+  max-width: 500px;
+  margin: 150px auto;
+  text-align: center;
+  /* background-color: white; */
+  color: #FFCC57;
+  border: 0.5px solid #FFCC57 ;
+  padding: 10px;
+}
+
+form input,button{
+  display: block;
+  width: 200px;
+  height: 40px;
+  margin: 15px auto;
+  padding: 10px;
+}
