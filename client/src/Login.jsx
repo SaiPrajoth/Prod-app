@@ -15,7 +15,7 @@ export default function Login() {
       <input type="text" placeholder='username'/>
       <input type="password" placeholder='password' />
       <button type='submit'>Register</button>
-      <div className="register-here">did not register yet, <Link to='/register'>register here</Link></div>
+      <div className="register-here">did not register yet, <Link className='register-text' to='/register'>register here</Link></div>
       </form>
     </div>
     {/* <form action="" className="registration-form">
