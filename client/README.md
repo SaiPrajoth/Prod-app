@@ -36,4 +36,4 @@ We welcome contributions and feedback from the community. Feel free to submit is
 
 ProdApp is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it to suit your needs.
 
-Thank you for choosing ProdApp. We hope it elevates your social media management experience!
+Thank you for choosing ProdApp. We hope it elevates your social media management experience!...
